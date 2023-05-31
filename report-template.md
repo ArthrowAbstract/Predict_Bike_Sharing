@@ -23,19 +23,13 @@ My model performed very slightly better after trying different hyper parameters.
 With a large dataset, more time could be spend on feature engineering as it's a time-consuming process. So, understanding features can ease the complex process of feature engineering.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-
+![model_train_score.png](1.png)
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
-
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](2.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
+![model_test_score.png](3_1.png)
 
-![model_test_score.png](img/model_test_score.png)
-
-## Summary
-TODO: Add your explanation

@@ -13,11 +13,11 @@ The top ranked model was obtained when more features were added.
 The exploratory analysis found that the following features were most correlated with the target variable temp, atemp, humidity, windspeed, weekday.
 
 ### How much better did your model preform after adding additional features and why do you think that is?
-My model performed significantly better after adding additional features. The score on the Kaggle leaderboard increased from 1.8 to 1.3. I think that the additional features helped the model to learn more complex relationships between the features and the target variable.
+My model performed significantly better after adding additional features. The score on the Kaggle leaderboard decreased from 1.8 to 0.64. I think that the additional features helped the model to learn more complex relationships between the features and the target variable.
 
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
-My model performed very slightly better after trying different hyper parameters. The score on the Kaggle leaderboard didn't change much. I think that there was no improvement  due to the fact that I was not able to find a set of hyper parameters that were more suited to my dataset.
+My model performed very slightly better after trying different hyper parameters. The score on the Kaggle leaderboard changed to 0.51. I think that there was improvement  due to the fact that I was able to find a set of hyper parameters that were more suited to my dataset.
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
 With a large dataset, more time could be spend on feature engineering as it's a time-consuming process. So, understanding features can ease the complex process of feature engineering.
